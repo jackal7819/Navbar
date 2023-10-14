@@ -304,12 +304,6 @@ nav {
 .social-icons {
 	display: none;
 }
-/* svg {
-	fill: var(--primary-600);
-}
-svg:hover {
-	fill: var(--primary-500);
-} */
 
 @media screen and (min-width: 800px) {
 	.nav-toggle {
